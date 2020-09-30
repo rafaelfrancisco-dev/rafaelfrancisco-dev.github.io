@@ -11,14 +11,6 @@ entries:
 
   - title: projects
     post_list: true
-    url: false
-    entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-        url: false
-      - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: used by riggraz.dev
-        url: https://riggraz.dev/
 
   - title: links
     url: false
