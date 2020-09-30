@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title: "today in history (android)"
-date: 2020-09-28 19:38:43 +0100
+title: today in history (android)
+slug: today-in-history-a
 categories: app android
 
 ---
