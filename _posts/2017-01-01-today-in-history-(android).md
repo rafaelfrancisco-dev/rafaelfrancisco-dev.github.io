@@ -3,7 +3,6 @@
 layout: post
 title: today in history (android)
 slug: today-in-history-a
-categories: app android
 
 ---
 ## the start
