@@ -21,7 +21,6 @@ entries:
         url: https://riggraz.dev/
 
   - title: links
-    post_list: true
     url: false
     entries:
       - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
