@@ -30,7 +30,7 @@ twitter_username: does_it_compile
 github_username:  rafaelfrancisco-dev
 
 # Build settings
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
 
