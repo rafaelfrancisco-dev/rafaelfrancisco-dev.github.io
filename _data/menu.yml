@@ -4,10 +4,10 @@ entries:
     entries:
       - title: iOS dev, web dabbler
         url: false
+      - title: email
+        url: mailto://rafaelfrancisco6@gmail.com
       - title: github
         url: https://github.com/rafaelfrancisco-dev
-      - title: used by riggraz.dev
-        url: https://riggraz.dev/
 
   - title: projects
     url: false
