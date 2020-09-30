@@ -29,6 +29,8 @@ url: "https://rafaelfrancisco-dev.github.io" # the base hostname & protocol for 
 twitter_username: does_it_compile
 github_username:  rafaelfrancisco-dev
 
+permalink: /:slug.html
+
 # Build settings
 remote_theme: riggraz/no-style-please
 
