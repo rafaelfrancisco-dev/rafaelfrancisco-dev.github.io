@@ -2,10 +2,10 @@ entries:
   - title: info
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: iOS dev, web dabbler
         url: false
       - title: github
-        url: https://github.com/riggraz/no-style-please
+        url: https://github.com/rafaelfrancisco-dev
       - title: used by riggraz.dev
         url: https://riggraz.dev/
 
@@ -26,3 +26,7 @@ entries:
     entries:
       - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
         url: false
+
+  - title: theme by riggraz
+    post_list: false
+    url: https://riggraz.dev/
