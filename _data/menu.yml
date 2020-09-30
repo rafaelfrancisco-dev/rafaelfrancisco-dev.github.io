@@ -10,13 +10,14 @@ entries:
         url: https://riggraz.dev/
 
   - title: projects
+    url: false
     post_list: true
 
   - title: links
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-        url: false
+      - title: linkedin
+        url: https://www.linkedin.com/in/rafael-francisco/
 
   - title: theme by riggraz
     post_list: false
